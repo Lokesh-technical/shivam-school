@@ -33,7 +33,7 @@ const SchoolClasses = () => {
                                     <Image class="img-fluid rounded-circle" src={Class1Img} alt loading='lazy'/>
                                 </div>
                                 <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                    <a class="d-block text-center h3 mt-3 mb-4" href>Art & Drawing</a>
+                                    <a class="d-block text-center h3 mt-3 mb-4" href='#'>Art & Drawing</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
                                             <Image class="rounded-circle flex-shrink-0" src={General_Knowledge} alt
@@ -43,7 +43,7 @@ const SchoolClasses = () => {
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
-                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href>Excellent</span>
+                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href='#'>Excellent</span>
                                     </div>
                                     <div class="row g-1">
                                         <div class="col-4">
@@ -74,7 +74,7 @@ const SchoolClasses = () => {
                                     <Image class="img-fluid rounded-circle" src={Class2Img} alt loading='lazy'/>
                                 </div>
                                 <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                    <a class="d-block text-center h3 mt-3 mb-4" href>Color Management</a>
+                                    <a class="d-block text-center h3 mt-3 mb-4" href='#'>Color Management</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
                                             <Image class="rounded-circle flex-shrink-0" src={General_Knowledge} alt
@@ -84,7 +84,7 @@ const SchoolClasses = () => {
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
-                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href>Excellent</span>
+                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href='#'>Excellent</span>
                                     </div>
                                     <div class="row g-1">
                                         <div class="col-4">
@@ -115,7 +115,7 @@ const SchoolClasses = () => {
                                     <Image class="img-fluid rounded-circle" src={Class3Img} alt   loading='lazy'/>
                                 </div>
                                 <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                    <a class="d-block text-center h3 mt-3 mb-4" href>Athletic & Dance</a>
+                                    <a class="d-block text-center h3 mt-3 mb-4" href='#'>Athletic & Dance</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
                                             <Image class="rounded-circle flex-shrink-0" src={Athletic_Dance} alt
@@ -125,7 +125,7 @@ const SchoolClasses = () => {
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
-                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href>Excellent</span>
+                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href='#'>Excellent</span>
                                     </div>
                                     <div class="row g-1">
                                         <div class="col-4">
@@ -156,7 +156,7 @@ const SchoolClasses = () => {
                                     <Image class="img-fluid rounded-circle" src={Class4Img} alt    loading='lazy'/>
                                 </div>
                                 <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                    <a class="d-block text-center h3 mt-3 mb-4" href>Language & Speaking</a>
+                                    <a class="d-block text-center h3 mt-3 mb-4" href='#'>Language & Speaking</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
                                             <Image class="rounded-circle flex-shrink-0" src={Language_Speaking} alt
@@ -166,7 +166,7 @@ const SchoolClasses = () => {
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
-                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href>Excellent</span>
+                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href='#'>Excellent</span>
                                     </div>
                                     <div class="row g-1">
                                         <div class="col-4">
@@ -197,7 +197,7 @@ const SchoolClasses = () => {
                                     <Image class="img-fluid rounded-circle" src={Class5Img} alt   loading='lazy'/>
                                 </div>
                                 <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                    <a class="d-block text-center h3 mt-3 mb-4" href>Religion & History</a>
+                                    <a class="d-block text-center h3 mt-3 mb-4" href='#'>Religion & History</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
                                             <Image class="rounded-circle flex-shrink-0" src={Religion_History} alt
@@ -207,7 +207,7 @@ const SchoolClasses = () => {
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
-                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href>Excellent</span>
+                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href='#'>Excellent</span>
                                     </div>
                                     <div class="row g-1">
                                         <div class="col-4">
@@ -238,7 +238,7 @@ const SchoolClasses = () => {
                                     <Image class="img-fluid rounded-circle" src={Class6Img} alt   loading='lazy'/>
                                 </div>
                                 <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                    <a class="d-block text-center h3 mt-3 mb-4" href>General Knowledge</a>
+                                    <a class="d-block text-center h3 mt-3 mb-4" href='#'>General Knowledge</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
                                             <Image class="rounded-circle flex-shrink-0" src={General_Knowledge} alt
@@ -248,7 +248,7 @@ const SchoolClasses = () => {
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
-                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href>Excellent</span>
+                                        <span class="bg-primary text-white rounded-pill py-2 px-3" href='#'>Excellent</span>
                                     </div>
                                     <div class="row g-1">
                                         <div class="col-4">

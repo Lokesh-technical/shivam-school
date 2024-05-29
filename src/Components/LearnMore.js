@@ -30,9 +30,9 @@ const LearnMore = () => {
                             </p>
                             <p class="mb-4">Immerse yourself in a dynamic learning journey that goes beyond textbooks, as we invite you to explore our wide array of engaging cultural activities that cultivate creativity, embrace diversity, and ignite a passion for lifelong learning.</p>
                             <div class="row g-4 align-items-center">
-                                <div class="col-sm-6">
-                                    <a class="btn btn-primary rounded-pill py-3 px-5" href>Read More</a>
-                                </div>
+                                {/* <div class="col-sm-6">
+                                    <a class="btn btn-primary rounded-pill py-3 px-5" href='#'Read More</a>
+                                </div> */}
                             </div>
                         </div>
                        

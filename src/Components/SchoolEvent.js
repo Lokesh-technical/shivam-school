@@ -50,7 +50,7 @@ const SchoolEvent = () => {
         <div className="row g-4">
             {events.map((event, index) => (
                 <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay={`${index * 0.2}s`} key={index}>
-                    <Link href={`/${event.path}`} passHref>
+                    <Link href={`/${event.path}`} passhref='#'
                         <div className="card" style={{ cursor: 'pointer' }}>
                             <Image src={event.image} className="card-img-top" alt={event.title} width={400} height={300} loading="lazy" />
                             <div className="card-body text-center">

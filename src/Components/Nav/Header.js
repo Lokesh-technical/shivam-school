@@ -70,7 +70,7 @@
 //     return (
         
 //         <nav className="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0 navbar-style" >
-//         <Link href="/" passHref>
+//         <Link href="/" passhref='#'
 //             <div className="navbar-brand">
 //                 <h1 className="m-0 text-primary text-center">
 //                     <Image  src={logo} alt='logo' width={60} height={60} loading="lazy" />Shivam Vidhyalay
@@ -88,27 +88,27 @@
 //         </button>
 //         <div className={`collapse navbar-collapse ${toogle ? "show" : ""}`} id="navbarCollapse">
 //             <div className="navbar-nav mx-auto">
-//                 <Link href="/" passHref>
+//                 <Link href="/" passhref='#'
 //                     <div className={`nav-item nav-link ${flag === "/" ? "active" : ""}`} onClick={() => setflag("/")} legacyBehavior>
 //                         Home
 //                     </div>
 //                 </Link>
-//                 <Link href="/about" passHref>
+//                 <Link href="/about" passhref='#'
 //                     <div className={`nav-item nav-link ${flag === "/about" ? "active" : ""}`} onClick={() => setflag("/about")} legacyBehavior>
 //                         About Us
 //                     </div>
 //                 </Link>
-//                 <Link href="/classes" passHref>
+//                 <Link href="/classes" passhref='#'
 //                     <div className={`nav-item nav-link ${flag === "/classes" ? "active" : ""}`} onClick={() => setflag("/classes")} legacyBehavior>
 //                         Classes
 //                     </div>
 //                 </Link>
-//                 <Link href="/schoolevent" passHref>
+//                 <Link href="/schoolevent" passhref='#'
 //                     <div className={`nav-item nav-link ${flag === "/schoolevent" ? "active" : ""}`} onClick={() => setflag("/schoolevent")} legacyBehavior>
 //                         School Events
 //                     </div>
 //                 </Link>
-//                 <Link href="/iti" passHref>
+//                 <Link href="/iti" passhref='#'
 //                     <div className={`nav-item nav-link ${flag === "/iti" ? "active" : ""}`} onClick={() => setflag("/iti")} legacyBehavior>
 //                         ITI
 //                     </div>
@@ -129,35 +129,35 @@
 //                         className="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0"
 //                         aria-labelledby="navbarDropdown"
 //                     >
-//                         <Link href="/classes" passHref>
+//                         <Link href="/classes" passhref='#'
 //                             <div className="dropdown-item" legacyBehavior>
 //                                 School Facilities
 //                             </div>
 //                         </Link>
-//                         <Link href="/popularteachers" passHref>
+//                         <Link href="/popularteachers" passhref='#'
 //                             <div className="dropdown-item" legacyBehavior>
 //                                 Popular Teachers
 //                             </div>
 //                         </Link>
-//                         <Link href="/becometeacher" passHref>
+//                         <Link href="/becometeacher" passhref='#'
 //                             <div className="dropdown-item" legacyBehavior>
 //                                 Get Admission Today
 //                             </div>
 //                         </Link>
-//                         <Link href="/makeappointment" passHref>
+//                         <Link href="/makeappointment" passhref='#'
 //                             <div className="dropdown-item" legacyBehavior>
 //                                 Make Appointment
 //                             </div>
 //                         </Link>
 //                     </div>
 //                 </div>
-//                 <Link href="/contact" passHref>
+//                 <Link href="/contact" passhref='#'
 //                     <div className={`nav-item nav-link ${flag === "/contact" ? "active" : ""}`} onClick={() => setflag("/contact")} legacyBehavior>
 //                         Contact Us
 //                     </div>
 //                 </Link>
 //             </div>
-//             <Link href="/" passHref>
+//             <Link href="/" passhref='#'
 //                 <button className="btn btn-primary rounded-pill px-3 d-none d-lg-block">
 //                     Join Us<i className="fa fa-arrow-right ms-3"></i>
 //                 </button>

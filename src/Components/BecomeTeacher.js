@@ -18,8 +18,8 @@ const BecomeTeacher = () => {
                                 <h1 class="mb-4">Get Admission Today</h1>
                                 <p class="mb-4">Embark on a fulfilling and rewarding career as an educator, shaping the future by joining our esteemed team of dedicated teachers who inspire and empower students to thrive academically, emotionally, and socially.
                                 </p>
-                                <a class="btn btn-primary py-3 px-5" href>Get Started Now<i
-                                    class="fa fa-arrow-right ms-2" loading='lazy'></i></a>
+                                {/* <a class="btn btn-primary py-3 px-5" href='#'Get Started Now<i
+                                    class="fa fa-arrow-right ms-2" loading='lazy'></i></a> */}
                             </div>
                         </div>
                     </div>

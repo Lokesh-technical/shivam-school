@@ -18,7 +18,7 @@ const Footer = () => {
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
                         <p class="mb-2"><i class="fa fa-envelope me-3"></i><a
-                            href=" " class="__cf_email__"
+                            href='#' class="__cf_email__"
                             data-cfemail="9af3f4fcf5daffe2fbf7eaf6ffb4f9f5f7">[email&#160;protected]</a></p>
                         <div class="d-flex pt-2">
                             {/* <a class="btn btn-outline-light btn-social" href><i class="fab fa-twitter"></i></a>
@@ -30,16 +30,16 @@ const Footer = () => {
                     <div class="col-lg-3 col-md-6">
                         <h3 class="text-white mb-4">Quick Links</h3>
                         <Link href="/" passHref>
-                            <div class="btn btn-link text-white-50" href>Home</div>
+                            <div class="btn btn-link text-white-50" href='/'>Home</div>
                         </Link>
                         <Link href="/about" passHref>
-                            <div class="btn btn-link text-white-50" href>About Us</div>
+                            <div class="btn btn-link text-white-50" href='/about'>About Us</div>
                         </Link>
                         <Link href="/contact" passHref>
-                            <div class="btn btn-link text-white-50" href>Contact Us</div>
+                            <div class="btn btn-link text-white-50" href='contact'>Contact Us</div>
                         </Link>
                         <Link href="/contact" passHref>
-                            <div class="btn btn-link text-white-50" href>Our Services</div>
+                            <div class="btn btn-link text-white-50" href="/contact">Our Services</div>
                         </Link>
                     </div>
                     <div class="col-lg-3 col-md-6">
@@ -81,15 +81,15 @@ const Footer = () => {
                 <div class="copyright">
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                            &copy; <a class="border-bottom" href="#">Shivam Vidhyalay</a>, All Right Reserved.
                             Designed By <a class="border-bottom" href="https://koliinfotech.com/">Koli Infotech Pvt. Ltd.</a>
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
-                                <a href>Home</a>
-                                <a href>Cookies</a>
-                                <a href>Help</a>
-                                <a href>FQAs</a>
+                                <a href='#'>Home</a>
+                                <a href='#'>Cookies</a>
+                                <a href='#'>Help</a>
+                                <a href='#'>FQAs</a>
                             </div>
                         </div>
                     </div>
