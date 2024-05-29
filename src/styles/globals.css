@@ -79,3 +79,10 @@
     padding: 0 !important;
     border: none !important;
 }
+
+.nav-item {
+    cursor: pointer;
+}
+.logo-style {
+    cursor: pointer;
+}

@@ -198,7 +198,7 @@ const Header = () => {
         <nav className="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0 navbar-style">
             <Link href="/" passHref legacyBehavior>
                 <div className="navbar-brand">
-                    <h1 className="m-0 text-primary text-center">
+                    <h1 className="m-0 text-primary text-center logo-style">
                         <Image src={logo} alt="logo" width={60} height={60} loading="lazy" />Shivam Vidhyalay
                     </h1>
                 </div>
