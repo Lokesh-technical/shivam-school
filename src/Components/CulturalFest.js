@@ -30,7 +30,7 @@ const CulturalFest = () => {
                     {CulturalFestImages.map((image, index) => (
                         <div className="col-lg-6 col-md-6 text-center my-3 wow fadeInUp" data-wow-delay={`${index * 0.2}s`} key={index}>
                             <div className="image-container" style={{ borderRadius: "8px", overflow: "hidden" }}>
-                                <Image src={image} alt={`Cultural Fest ${index + 1}`} width={550} height={380} loading="lazy" className="zoom-on-hover" />
+                                <Image src={image} alt={`Cultural Fest ${index + 1}`} width={600} height={380} loading="lazy" className="zoom-on-hover" />
                             </div>
                         </div>
                     ))}

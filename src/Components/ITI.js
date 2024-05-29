@@ -41,7 +41,7 @@ const ITI = () => {
               {departments.map((dept, index) => (
                 <div className="col-md-6" key={index}>
                   <div className="card mb-4">
-                    <Image src={dept.image} alt={dept.name} className="card-img-top" width={550} height={400} loading="lazy"/>
+                    <Image src={dept.image} alt={dept.name} className="card-img-top" width={600} height={400} loading="lazy"/>
                     <div className="card-body">
                       <h5 className="card-title">{dept.name}</h5>
                       <p className="card-text">{dept.description}</p>
@@ -85,7 +85,7 @@ const ITI = () => {
               {machines.map((machine, index) => (
                 <div className="col-md-6" key={index}>
                   <div className="card mb-4">
-                    <Image src={machine.image} alt={machine.name} className="card-img-top" width={550} height={400} loading="lazy"/>
+                    <Image src={machine.image} alt={machine.name} className="card-img-top" width={600} height={400} loading="lazy"/>
                     <div className="card-body">
                       <h5 className="card-title">{machine.name}</h5>
                     </div>

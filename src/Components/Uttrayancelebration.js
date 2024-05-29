@@ -20,7 +20,7 @@ const Uttrayancelebration = () => {
                     {UttrayanImages.map((image, index) => (
                         <div className="col-lg-6 col-md-6 text-center my-3 wow fadeInUp" data-wow-delay={`${index * 0.2}s`} key={index}>
                             <div className="image-container" style={{borderRadius: "8px"}}>
-                                <Image src={image} alt={`Makar Sankranti Celebration ${index + 1}`} width={550} height={400} loading="lazy" />
+                                <Image src={image} alt={`Makar Sankranti Celebration ${index + 1}`} width={600} height={400} loading="lazy" />
                             </div>
                         </div>
                     ))}

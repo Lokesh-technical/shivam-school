@@ -20,7 +20,7 @@ const HoliCelebration = () => {
                     {HoliImages.map((image, index) => (
                         <div className="col-lg-6 col-md-6 text-center my-3 wow fadeInUp" data-wow-delay={`${index * 0.2}s`} key={index}>
                             <div className="image-container" style={{ borderRadius: "8px", overflow: "hidden" }}>
-                                <Image src={image} alt={`Holi Celebration ${index + 1}`} width={550} height={400} loading="lazy" className="zoom-on-hover" />
+                                <Image src={image} alt={`Holi Celebration ${index + 1}`} width={600} height={400} loading="lazy" className="zoom-on-hover" />
                             </div>
                         </div>
                     ))}
