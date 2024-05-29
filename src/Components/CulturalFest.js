@@ -24,7 +24,7 @@ const CulturalFest = () => {
             <div className="container">
                 <div className="text-center mx-auto mb-5" style={{ maxWidth: "600px" }}>
                     <h1 className="mb-3">Cultural Fest</h1>
-                    <p>The Cultural Fest showcases our students' talents in music, dance, drama, and art. It is a celebration of cultural diversity and artistic expression.</p>
+                    <p>The Cultural Fest showcases our students talents in music, dance, drama, and art. It is a celebration of cultural diversity and artistic expression.</p>
                 </div>
                 <div className="row justify-content-center">
                     {CulturalFestImages.map((image, index) => (

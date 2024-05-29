@@ -3,7 +3,6 @@
 
 import React from 'react';
 import Link from 'next/link';
-import utrayanimage1 from "../assets/img/Utrayan/utrayanimage2.jpg"
 import sportsimage from "../assets/img/sports/sportsImage2.jpg"
 import culturalfestimage from "../assets/img/Cultural Fest/culturalfestimage1.jpg"
 import holiimage from "../assets/img/Holi/holiimage1.jpg"
@@ -50,7 +49,7 @@ const SchoolEvent = () => {
         <div className="row g-4">
             {events.map((event, index) => (
                 <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay={`${index * 0.2}s`} key={index}>
-                    <Link href={`/${event.path}`} passhref='#'
+                    <Link href={`/${event.path}`} passHref>
                         <div className="card" style={{ cursor: 'pointer' }}>
                             <Image src={event.image} className="card-img-top" alt={event.title} width={400} height={300} loading="lazy" />
                             <div className="card-body text-center">

@@ -13,7 +13,7 @@ const Facilities = () => {
             <h1 class="mb-3">School Facilities</h1>
             <p>
               State-of-the-art facilities fostering a conducive learning
-              environment for students to excel and grow."
+              environment for students to excel and grow.
             </p>
           </div>
           <div class="row g-4">
@@ -27,7 +27,7 @@ const Facilities = () => {
                 <div class="facility-text bg-primary">
                   <h3 class="text-primary mb-3">School Bus</h3>
                   <p class="mb-0">
-                    Safe and reliable transportation ensuring students'
+                    Safe and reliable transportation ensuring students
                     convenience and peace of mind with our well-maintained
                     school bus fleet.
                   </p>
@@ -62,7 +62,7 @@ const Facilities = () => {
                   <h3 class="text-warning mb-3">Healthy Canteen</h3>
                   <p class="mb-0">
                     A nutritious and diverse canteen offering delicious meals
-                    and snacks that promote students' health and well-being.
+                    and snacks that promote students health and well-being.
                   </p>
                 </div>
               </div>
@@ -111,7 +111,7 @@ const Facilities = () => {
                 <div class="facility-text bg-success">
                   <h3 class="text-primary mb-3">Hostel for Boys</h3>
                   <p class="mb-0">
-                    Our boys' hostel offers a safe, comfortable living
+                    Our boys hostel offers a safe, comfortable living
                     environment with modern amenities, spacious rooms,
                     nutritious meals, and 24/7 security.
                   </p>
