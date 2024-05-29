@@ -1,7 +1,7 @@
 import React from 'react';
 import sportsImage1 from '../assets/img/sports/sportsimage1.jpg';
-import sportsImage2 from '../assets/img/sports/sportsimage2.jpg';
-import sportsImage3 from '../assets/img/sports/sportsimage3.jpg';
+import sportsImage2 from '../assets/img/sports/sportsImage2.jpg';
+import sportsImage3 from '../assets/img/sports/sportsImage3.jpg';
 import sportsImage4 from '../assets/img/sports/sportsimage4.jpg';
 import Image from 'next/image';
 
