@@ -22,9 +22,9 @@ const ManagingTrustee = () => {
                     <p class="mb-4"><b>Experienced and Dedicated Faculty:</b> He ensures the school has a team of experienced and dedicated teachers who effectively impart knowledge and support students' overall development.</p>
                     <p class="mb-4"><b>Well-Equipped Facilities:</b> Thanks to his efforts, Shivam Vidhyalay boasts well-equipped facilities, including libraries, laboratories, sports grounds, and technology resources, enhancing the learning experience.</p>
                     <div class="row g-4 align-items-center">
-                        <div class="col-sm-6">
+                        {/* <div class="col-sm-6">
                             <a class="btn btn-primary rounded-pill py-3 px-5" href>Read More</a>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
