@@ -20,7 +20,7 @@ const ContactUs = () => {
                         <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style={{ "width": "75px", "height": "75px" }}>
                             <i class="fa fa-envelope-open fa-2x text-primary" loading='lazy'></i>
                         </div>
-                        <h6><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="caa3a4aca58aafb2aba7baa6afe4a9a5a7">[email&#160;protected]</a></h6>
+                        <h6><a href="#" class="__cf_email__" data-cfemail="caa3a4aca58aafb2aba7baa6afe4a9a5a7">email</a></h6>
                     </div>
                     <div class="col-md-6 col-lg-4 text-center wow fadeInUp" data-wow-delay="0.5s">
                         <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style={{ "width": "75px", "height": "75px" }}>
@@ -33,7 +33,7 @@ const ContactUs = () => {
                     <div class="row g-0">
                         <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                             <div class="h-100 d-flex flex-column justify-content-center p-5">
-                                <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                                <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you re done. <a href="#">Download Now</a>.</p>
                                 <form>
                                     <div class="row g-3">
                                         <div class="col-sm-6">
