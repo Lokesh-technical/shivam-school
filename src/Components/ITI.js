@@ -9,7 +9,6 @@ const ITI = () => {
   const departments = [
     { name: 'Welder', description: 'Learn the art of welding with hands-on training and theoretical knowledge.', image: welderImage },
     { name: 'Electrician', description: 'Gain expertise in electrical installations, maintenance, and repair.', image: electricianImage },
-    // Add more departments as needed
   ];
 
   const trainingScheme = 'Our training schemes are designed to provide comprehensive knowledge and skills in various trades. We offer a blend of theoretical classes and practical workshops to ensure a well-rounded education.';
@@ -23,7 +22,6 @@ const ITI = () => {
   const machines = [
     { name: 'Lath Machine', image: machine1Image },
     { name: 'Electrical Testing Machine', image: machine2Image },
-    // Add more machines as needed
   ];
 
   return (

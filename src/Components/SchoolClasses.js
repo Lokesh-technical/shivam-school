@@ -8,9 +8,11 @@ import Class6Img from '../assets/img/classes-6.jpg'
 import UserImg from '../assets/img/user.jpg'
 import Image from 'next/image'
 
-import Language_Speaking from "../assets/img/school_classes_section/team14-100x100.jpg"
-import Religion_History from "../assets/img/school_classes_section/team6-100x100.jpg"
-import General_Knowledge from "../assets/img/school_classes_section/team1-100x100.jpg"
+import Language_Speaking from "../assets/img/Teachers/image-4024x6048.jpg"
+import Religion_History from "../assets/img/Teachers/team14.jpg"
+import art_drawing from "../assets/img/Teachers/team11.jpg"
+import General_Knowledge from "../assets/img/Teachers/team4.jpg"
+import color_Management from "../assets/img/Teachers/team15.jpg"
 import Athletic_Dance from "../assets/img/school_classes_section/team4-100x100.jpg"
 
 
@@ -36,10 +38,10 @@ const SchoolClasses = () => {
                                     <a class="d-block text-center h3 mt-3 mb-4" href='#'>Art & Drawing</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
-                                            <Image class="rounded-circle flex-shrink-0" src={General_Knowledge} alt
+                                            <Image class="rounded-circle flex-shrink-0" src={art_drawing} alt
                                                 style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Rakesh Faljibhai</h6>
+                                                    <h6 class="text-primary mb-1">Rohit</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -48,7 +50,7 @@ const SchoolClasses = () => {
                                     <div class="row g-1">
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
-                                                <h6 class="text-primary mb-1">Age:</h6>
+                                                <h6 class="text-primary mb-1">Experience:</h6>
                                                 <small>3-5 Years</small>
                                             </div>
                                         </div>
@@ -77,10 +79,10 @@ const SchoolClasses = () => {
                                     <a class="d-block text-center h3 mt-3 mb-4" href='#'>Color Management</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
                                         <div class="d-flex align-items-center">
-                                            <Image class="rounded-circle flex-shrink-0" src={General_Knowledge} alt
+                                            <Image class="rounded-circle flex-shrink-0" src={color_Management} alt
                                                style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Rakesh Faljibhai</h6>
+                                                    <h6 class="text-primary mb-1">Ajit</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -89,7 +91,7 @@ const SchoolClasses = () => {
                                     <div class="row g-1">
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
-                                                <h6 class="text-primary mb-1">Age:</h6>
+                                                <h6 class="text-primary mb-1">Experience:</h6>
                                                 <small>3-5 Years</small>
                                             </div>
                                         </div>
@@ -130,7 +132,7 @@ const SchoolClasses = () => {
                                     <div class="row g-1">
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
-                                                <h6 class="text-primary mb-1">Age:</h6>
+                                                <h6 class="text-primary mb-1">Experience:</h6>
                                                 <small>3-5 Years</small>
                                             </div>
                                         </div>
@@ -158,11 +160,11 @@ const SchoolClasses = () => {
                                 <div class="bg-light rounded p-4 pt-5 mt-n5">
                                     <a class="d-block text-center h3 mt-3 mb-4" href='#'>Language & Speaking</a>
                                     <div class="d-flex align-items-center justify-content-between mb-4">
-                                        <div class="d-flex align-items-center">
+                                        <div class="d-flex align-items-center"> 
                                             <Image class="rounded-circle flex-shrink-0" src={Language_Speaking} alt
                                                style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Minal</h6>
+                                                    <h6 class="text-primary mb-1">Gamara Bharat</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -171,7 +173,7 @@ const SchoolClasses = () => {
                                     <div class="row g-1">
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
-                                                <h6 class="text-primary mb-1">Age:</h6>
+                                                <h6 class="text-primary mb-1">Experience:</h6>
                                                 <small>3-5 Years</small>
                                             </div>
                                         </div>
@@ -203,7 +205,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={Religion_History} alt
                                                   style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Bhailal</h6>
+                                                    <h6 class="text-primary mb-1">Minal</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -212,7 +214,7 @@ const SchoolClasses = () => {
                                     <div class="row g-1">
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
-                                                <h6 class="text-primary mb-1">Age:</h6>
+                                                <h6 class="text-primary mb-1">Experience:</h6>
                                                 <small>3-5 Years</small>
                                             </div>
                                         </div>
@@ -253,7 +255,7 @@ const SchoolClasses = () => {
                                     <div class="row g-1">
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
-                                                <h6 class="text-primary mb-1">Age:</h6>
+                                                <h6 class="text-primary mb-1">Experience:</h6>
                                                 <small>3-5 Years</small>
                                             </div>
                                         </div>

@@ -9,11 +9,6 @@
 }
 
 
-/*======================
-    404 page
-=======================*/
-
-
 .page_404 {
     padding: 40px 0;
     background: #fff;
@@ -57,23 +52,6 @@
     overflow: hidden;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
-/* .image-container:hover img {
-    transform: scale(1.1); 
-    transition: transform 0.3s ease; 
-} */
-
-/* @media (max-width: 480px) {
-    .navbar-style {
-        background-color: red;
-        padding-left: 0 !important;
-        padding-right: 0 !important;
-        justify-content: center !important;
-        flex-wrap: wrap !important;
-        gap: none !important;
-    }
-} */
-
 
  .navbar-toggler {
     padding: 0 !important;

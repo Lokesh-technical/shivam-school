@@ -34,12 +34,6 @@ const PopularTeachers = () => {
             name: "Daxa.k.Patel",
             desiganation: "Principal Primary"
         },
-        // {
-        //     images: TeamImg,
-        //     name: "Rakesh Faljibhai",
-        //     desiganation: "Teacher"
-
-        // },
         {
             images: Team3Img,
             name: "RaghuBhai",
@@ -52,12 +46,6 @@ const PopularTeachers = () => {
             name: "Minal",
             desiganation: "Teacher"
         },
-        // {
-        //     images: Team6Img,
-        //     name: "Bhailal",
-        //     desiganation: "Teacher"
-        // },
-
         {
             images: Team10Img,
             name: "Rakesh",
@@ -105,11 +93,6 @@ const PopularTeachers = () => {
             name: "Parul",
             desiganation: "Teacher"
         },
-        // {
-        //     images: Team19Img,
-        //     name: "Yogendra",
-        //     desiganation: "Teacher"
-        // },
         {
             images: Team20Img,
             name: "Bhagvat",
