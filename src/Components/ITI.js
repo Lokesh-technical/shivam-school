@@ -4,11 +4,17 @@ import welderImage from '../assets/img/welder.jpeg';
 import electricianImage from '../assets/img/electritionImag.jpg';
 import machine1Image from '../assets/img/lathMC.jpg';
 import machine2Image from '../assets/img/ElectricalTestingMachine.jpg';
+import sanitaryInspectorImage from '../assets/img/sanitaryInspector.jpg'; 
+// import computerImage from '../assets/img/computer.jpg'; 
+import copaImage from '../assets/img/computer.jpg'; // Add this image
 
 const ITI = () => {
   const departments = [
     { name: 'Welder', description: 'Learn the art of welding with hands-on training and theoretical knowledge.', image: welderImage },
     { name: 'Electrician', description: 'Gain expertise in electrical installations, maintenance, and repair.', image: electricianImage },
+    { name: 'Sanitary Inspector', description: 'Develop skills in public health and sanitation management.', image: sanitaryInspectorImage },
+    // { name: 'Computer', description: 'Master computer fundamentals, software applications, and hardware maintenance.', image: computerImage },
+    { name: 'COPA', description: 'Become proficient in computer operations and programming assistance.', image: copaImage },
   ];
 
   const trainingScheme = 'Our training schemes are designed to provide comprehensive knowledge and skills in various trades. We offer a blend of theoretical classes and practical workshops to ensure a well-rounded education.';

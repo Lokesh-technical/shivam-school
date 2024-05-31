@@ -8,12 +8,12 @@ import Class6Img from '../assets/img/classes-6.jpg'
 import UserImg from '../assets/img/user.jpg'
 import Image from 'next/image'
 
-import Language_Speaking from "../assets/img/Teachers/image-4024x6048.jpg"
-import Religion_History from "../assets/img/Teachers/team14.jpg"
-import art_drawing from "../assets/img/Teachers/team11.jpg"
-import General_Knowledge from "../assets/img/Teachers/team4.jpg"
-import color_Management from "../assets/img/Teachers/team15.jpg"
-import Athletic_Dance from "../assets/img/school_classes_section/team4-100x100.jpg"
+import Language_Speaking from "../assets/img/Teachers/sanjaysir.jpg"
+import Religion_History from "../assets/img/Teachers/team5.jpg"
+import art_drawing from "../assets/img/Teachers/image-4024x6048.jpg"
+import General_Knowledge from "../assets/img/Teachers/team7.jpg"
+import color_Management from "../assets/img/Teachers/team18.png"
+import Athletic_Dance from "../assets/img/Teachers/team12.jpg"
 
 
 
@@ -41,7 +41,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={art_drawing} alt
                                                 style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Rohit</h6>
+                                                    <h6 class="text-primary mb-1">Gamara Bharat</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -51,7 +51,7 @@ const SchoolClasses = () => {
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
                                                 <h6 class="text-primary mb-1">Experience:</h6>
-                                                <small>3-5 Years</small>
+                                                <small>10+ Years</small>
                                             </div>
                                         </div>
                                         <div class="col-4">
@@ -82,7 +82,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={color_Management} alt
                                                style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Ajit</h6>
+                                                    <h6 class="text-primary mb-1">Parul</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -92,7 +92,7 @@ const SchoolClasses = () => {
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
                                                 <h6 class="text-primary mb-1">Experience:</h6>
-                                                <small>3-5 Years</small>
+                                                <small>10 Years</small>
                                             </div>
                                         </div>
                                         <div class="col-4">
@@ -123,7 +123,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={Athletic_Dance} alt
                                                style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">RaghuBhai</h6>
+                                                    <h6 class="text-primary mb-1">Anuradha</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -133,7 +133,7 @@ const SchoolClasses = () => {
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
                                                 <h6 class="text-primary mb-1">Experience:</h6>
-                                                <small>3-5 Years</small>
+                                                <small>10+ Years</small>
                                             </div>
                                         </div>
                                         <div class="col-4">
@@ -164,7 +164,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={Language_Speaking} alt
                                                style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Gamara Bharat</h6>
+                                                    <h6 class="text-primary mb-1">Sanjay</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -174,7 +174,7 @@ const SchoolClasses = () => {
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
                                                 <h6 class="text-primary mb-1">Experience:</h6>
-                                                <small>3-5 Years</small>
+                                                <small>10+ Years</small>
                                             </div>
                                         </div>
                                         <div class="col-4">
@@ -205,7 +205,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={Religion_History} alt
                                                   style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Minal</h6>
+                                                    <h6 class="text-primary mb-1">Daxa.k.Patel</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -215,7 +215,7 @@ const SchoolClasses = () => {
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
                                                 <h6 class="text-primary mb-1">Experience:</h6>
-                                                <small>3-5 Years</small>
+                                                <small>15 Years</small>
                                             </div>
                                         </div>
                                         <div class="col-4">
@@ -246,7 +246,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={General_Knowledge} alt
                                                   style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Rakesh</h6>
+                                                    <h6 class="text-primary mb-1">Jd Dhabhi</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>
@@ -256,7 +256,7 @@ const SchoolClasses = () => {
                                         <div class="col-4">
                                             <div class="border-top border-3 border-primary pt-2">
                                                 <h6 class="text-primary mb-1">Experience:</h6>
-                                                <small>3-5 Years</small>
+                                                <small>15+ Years</small>
                                             </div>
                                         </div>
                                         <div class="col-4">
