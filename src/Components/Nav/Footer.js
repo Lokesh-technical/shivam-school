@@ -119,7 +119,7 @@ const Footer = () => {
                 events, and updates by subscribing to our informative
                 newsletter.
               </p>
-              <div
+              {/* <div
                 class="position-relative mx-auto"
                 style={{ "max-width": "400px" }}
               >
@@ -134,7 +134,7 @@ const Footer = () => {
                 >
                   SignUp
                 </button>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
