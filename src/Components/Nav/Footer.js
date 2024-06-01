@@ -17,23 +17,20 @@ const Footer = () => {
       >
         <div class="container py-5">
           <div class="row g-5">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-3 col-md-6 footer-details-styles">
               <h3 class="text-white mb-4">Get In Touch</h3>
               <p class="mb-2">
                 <i class="fa fa-map-marker-alt me-3"></i>Shivam vidhyalay
-                At.post.Bagodara Ta.bavla. dist.Ahmedabad Idnraprasth
+                At.post.Bagodara Ta.bavla. dist.Ahmedabad Indraprasth
                 society.gujarat.382230
               </p>
               <p class="mb-2">
                 <i class="fa fa-phone-alt me-3"></i>9909996765
               </p>
-              {/* <p class="mb-2"><i class="fa fa-envelope me-3"></i><a
+              <p class="mb-2"><i class="fa fa-envelope me-3"></i><a
                             href='#' class="__cf_email__"
-                            data-cfemail="9af3f4fcf5daffe2fbf7eaf6ffb4f9f5f7">[email&#160;protected]</a></p> */}
+                            data-cfemail="9af3f4fcf5daffe2fbf7eaf6ffb4f9f5f7">shivamvidhyalay199@gmail.com</a></p>
               <div class="d-flex pt-2">
-                {/* <a class="btn btn-outline-light btn-social" href><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-light btn-social" href><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href><i class="fab fa-youtube"></i></a> */}
                 <a
                   class="btn btn-outline-light btn-social"
                   href="https://www.instagram.com/shivam_vidhyalay/?igsh=MW45ZDl3aHpjNXJoMA%3D%3D"
@@ -43,7 +40,7 @@ const Footer = () => {
                 </a>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-3 col-md-6 footer-routes-styles">
               <h3 class="text-white mb-4">Quick Links</h3>
               <Link href="/" passHref>
                 <div class="btn btn-link text-white-50" href="/">

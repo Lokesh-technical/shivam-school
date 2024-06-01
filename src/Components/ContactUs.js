@@ -14,19 +14,19 @@ const ContactUs = () => {
                         <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style={{ "width": "75px", "height": "75px" }}>
                             <i class="fa fa-map-marker-alt fa-2x text-primary" loading='lazy'></i>
                         </div>
-                        <h6>123 Street, New York, USA</h6>
+                        <h6>Shivam vidhyalay At.post.Bagodara Ta.bavla. dist.Ahmedabad Indraprasth society.gujarat.382230</h6>
                     </div>
                     <div class="col-md-6 col-lg-4 text-center wow fadeInUp" data-wow-delay="0.3s">
                         <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style={{ "width": "75px", "height": "75px" }}>
                             <i class="fa fa-envelope-open fa-2x text-primary" loading='lazy'></i>
                         </div>
-                        <h6><a href="#" class="__cf_email__" data-cfemail="caa3a4aca58aafb2aba7baa6afe4a9a5a7">email</a></h6>
+                        <h6><a href="#" class="__cf_email__" data-cfemail="caa3a4aca58aafb2aba7baa6afe4a9a5a7">shivamvidhyalay199@gmail.com</a></h6>
                     </div>
                     <div class="col-md-6 col-lg-4 text-center wow fadeInUp" data-wow-delay="0.5s">
                         <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style={{ "width": "75px", "height": "75px" }}>
                             <i class="fa fa-phone-alt fa-2x text-primary" loading='lazy'></i>
                         </div>
-                        <h6>+012 345 6789</h6>
+                        <h6>9909996765</h6>
                     </div>
                 </div>
                 <div class="bg-light rounded">

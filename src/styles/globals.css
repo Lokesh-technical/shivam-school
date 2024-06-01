@@ -64,3 +64,11 @@
 .logo-style {
     cursor: pointer;
 }
+
+.footer-details-styles {
+    width: 27% !important;
+}
+
+.footer-routes-styles {
+    width: 23% !important;
+}
