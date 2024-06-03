@@ -26,7 +26,7 @@ const PopularTeachers = () => {
         },
         {
             images: Team2Img,
-            name: "Jagdish Chahan",
+            name: "Jagdish Chauhan",
             desiganation: "Principal"
         },
         {
@@ -65,7 +65,7 @@ const PopularTeachers = () => {
         },
         {
             images: Team15Img,
-            name: "Ajit Rupabhai",
+            name: "Ajit",
             desiganation: "Teacher"
         },
         {

@@ -15,7 +15,7 @@ const Footer = () => {
         class="container-fluid bg-dark text-white-50 footer pt-5 mt-5 wow fadeIn"
         data-wow-delay="0.1s"
       >
-        <div class="container py-5">
+        <div class="container py-5 footer-container-styles">
           <div class="row g-5">
             <div class="col-lg-3 col-md-6 footer-details-styles">
               <h3 class="text-white mb-4">Get In Touch</h3>
@@ -27,7 +27,7 @@ const Footer = () => {
               <p class="mb-2">
                 <i class="fa fa-phone-alt me-3"></i>9909996765
               </p>
-              <p class="mb-2"><i class="fa fa-envelope me-3"></i><a
+              <p class="mb-2"><i class="fa fa-envelope me-2"></i><a
                             href='#' class="__cf_email__"
                             data-cfemail="9af3f4fcf5daffe2fbf7eaf6ffb4f9f5f7">shivamvidhyalay199@gmail.com</a></p>
               <div class="d-flex pt-2">

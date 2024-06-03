@@ -65,12 +65,9 @@
     cursor: pointer;
 }
 
-.footer-details-styles {
-    width: 27% !important;
+.footer-container-styles {
+    max-width: 1220px !important;
 }
 
-.footer-routes-styles {
-    width: 23% !important;
-}
 
 

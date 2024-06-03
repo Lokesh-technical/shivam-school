@@ -109,7 +109,7 @@ const Header = () => {
                         </div>
                     </Link>
                 </div>
-                <Link href="/" passHref legacyBehavior>
+                <Link href="/contact" passHref legacyBehavior>
                     <button className="btn btn-primary rounded-pill px-3 d-none d-lg-block">
                         Join Us<i className="fa fa-arrow-right ms-3"></i>
                     </button>
