@@ -246,7 +246,7 @@ const SchoolClasses = () => {
                                             <Image class="rounded-circle flex-shrink-0" src={General_Knowledge} alt
                                                   style={{"width": "45px", "height": "45px"}}/>
                                                 <div class="ms-3">
-                                                    <h6 class="text-primary mb-1">Jd Dhabhi</h6>
+                                                    <h6 class="text-primary mb-1">Jd Dabhi</h6>
                                                     <small>Teacher</small>
                                                 </div>
                                         </div>

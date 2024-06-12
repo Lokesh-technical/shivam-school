@@ -21,7 +21,7 @@ const PopularTeachers = () => {
     var teacherArray = [
         {
             images: Team8Img,
-            name: "Jd Dhabhi",
+            name: "Jd Dabhi",
             desiganation: "Managing Trustee"
         },
         {

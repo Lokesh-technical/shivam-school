@@ -17,7 +17,7 @@ const ManagingTrustee = () => {
 
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">Managing Trustee</h1>
-                    <p><b>Visionary Leadership:</b> Our Managing Trustee, Mr. Jd Dhabhi, is committed to fostering an environment of academic excellence and holistic development. His vision drives the continuous improvement of our educational standards.</p>
+                    <p><b>Visionary Leadership:</b> Our Managing Trustee, Mr. Jd Dabhi, is committed to fostering an environment of academic excellence and holistic development. His vision drives the continuous improvement of our educational standards.</p>
                     <p><b>Quality Education:</b> Under his leadership, Shivam Vidhyalay is renowned for providing quality education, leading to outstanding academic outcomes for students.</p>
                     <p class="mb-4"><b>Experienced and Dedicated Faculty:</b> He ensures the school has a team of experienced and dedicated teachers who effectively impart knowledge and support students overall development.</p>
                     <p class="mb-4"><b>Well-Equipped Facilities:</b> Thanks to his efforts, Shivam Vidhyalay boasts well-equipped facilities, including libraries, laboratories, sports grounds, and technology resources, enhancing the learning experience.</p>
