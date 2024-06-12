@@ -70,7 +70,7 @@ const PopularTeachers = () => {
         },
         {
             images: Team4Img,
-            name: "Jigensh Prajapati",
+            name: "Jignesh Prajapati",
             desiganation: "Teacher"
         },
         {
