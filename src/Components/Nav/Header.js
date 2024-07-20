@@ -42,33 +42,38 @@ const Header = () => {
             <div className={`collapse navbar-collapse ${toggle ? "show" : ""}`} id="navbarCollapse">
                 <div className="navbar-nav mx-auto">
                     <Link href="/" passHref legacyBehavior>
-                        <div className={`nav-item nav-link ${flag === "/" ? "active" : ""}`} onClick={() => setFlag("/")}>
+                        <div className={`nav-item nav-link nav-item-style ${flag === "/" ? "active" : ""}`} onClick={() => setFlag("/")}>
                             Home
                         </div>
                     </Link>
                     <Link href="/about" passHref legacyBehavior>
-                        <div className={`nav-item nav-link ${flag === "/about" ? "active" : ""}`} onClick={() => setFlag("/about")}>
+                        <div className={`nav-item nav-link nav-item-style ${flag === "/about" ? "active" : ""}`} onClick={() => setFlag("/about")}>
                             About Us
                         </div>
                     </Link>
                     <Link href="/classes" passHref legacyBehavior>
-                        <div className={`nav-item nav-link ${flag === "/classes" ? "active" : ""}`} onClick={() => setFlag("/classes")}>
+                        <div className={`nav-item nav-link nav-item-style ${flag === "/classes" ? "active" : ""}`} onClick={() => setFlag("/classes")}>
                             Classes
                         </div>
                     </Link>
                     <Link href="/schoolevent" passHref legacyBehavior>
-                        <div className={`nav-item nav-link ${flag === "/schoolevent" ? "active" : ""}`} onClick={() => setFlag("/schoolevent")}>
+                        <div className={`nav-item nav-link nav-item-style ${flag === "/schoolevent" ? "active" : ""}`} onClick={() => setFlag("/schoolevent")}>
                             School Events
                         </div>
                     </Link>
+                    <Link href="/schoolpicnic" passHref legacyBehavior>
+                        <div className={`nav-item nav-link nav-item-style ${flag === "/schoolpicnic" ? "active" : ""}`} onClick={() => setFlag("/schoolpicnic")}>
+                            School Picnic
+                        </div>
+                    </Link>
                     <Link href="/iti" passHref legacyBehavior>
-                        <div className={`nav-item nav-link ${flag === "/iti" ? "active" : ""}`} onClick={() => setFlag("/iti")}>
+                        <div className={`nav-item nav-link nav-item-style ${flag === "/iti" ? "active" : ""}`} onClick={() => setFlag("/iti")}>
                             ITI
                         </div>
                     </Link>
-                    <div className={`nav-item dropdown ${dropdownOpen ? "show" : ""}`}>
+                    <div className={`nav-item dropdown  ${dropdownOpen ? "show" : ""}`}>
                         <div
-                            className="nav-link dropdown-toggle"
+                            className="nav-link dropdown-toggle nav-item-style"
                             id="navbarDropdown"
                             role="button"
                             data-bs-toggle="dropdown"
@@ -104,7 +109,7 @@ const Header = () => {
                         </div>
                     </div>
                     <Link href="/contact" passHref legacyBehavior>
-                        <div className={`nav-item nav-link ${flag === "/contact" ? "active" : ""}`} onClick={() => setFlag("/contact")}>
+                        <div className={`nav-item nav-link nav-item-style ${flag === "/contact" ? "active" : ""}`} onClick={() => setFlag("/contact")}>
                             Contact Us
                         </div>
                     </Link>
