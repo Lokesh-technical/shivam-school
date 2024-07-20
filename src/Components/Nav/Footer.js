@@ -70,44 +70,42 @@ const Footer = () => {
                   <Image
                     class="img-fluid rounded bg-light p-1"
                     src={Class1img}
-                    width={100}
-                    height={100}
-                    alt
+                    alt="image"
                   />
                 </div>
                 <div class="col-4">
                   <Image
                     class="img-fluid rounded bg-light p-1"
                     src={Class2img}
-                    alt
+                    alt="image"
                   />
                 </div>
                 <div class="col-4">
                   <Image
                     class="img-fluid rounded bg-light p-1"
                     src={Class3img}
-                    alt
+                    alt="image"
                   />
                 </div>
                 <div class="col-4">
                   <Image
                     class="img-fluid rounded bg-light p-1"
                     src={Class4img}
-                    alt
+                    alt="image"
                   />
                 </div>
                 <div class="col-4">
                   <Image
                     class="img-fluid rounded bg-light p-1"
                     src={Class5img}
-                    alt
+                    alt="image"
                   />
                 </div>
                 <div class="col-4">
                   <Image
                     class="img-fluid rounded bg-light p-1"
                     src={Class6img}
-                    alt
+                    alt="image"
                   />
                 </div>
               </div>
