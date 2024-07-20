@@ -1,8 +1,7 @@
 // pages/school-picnic.js
 
 import React, { useState } from 'react';
-import VideoModal from '../components/VideoModal';
-import { FaPlay } from 'react-icons/fa'; // Import play icon
+import VideoModal from '../Components/VideoModal';
 import video1 from '../assets/videos/balaji_upavan_video1.mp4';
 import video2 from '../assets/videos/balaji_upavan_video2.mp4';
 import { FaCirclePlay } from "react-icons/fa6";
